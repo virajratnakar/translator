@@ -6,7 +6,7 @@ A lightweight web-based language translator that redirects user input to Google 
 
 https://virajratnakar.github.io/translator/
 
-# 🚀 Features
+## 🚀 Features
 
 🌍 Supports a wide range of languages
 
@@ -18,7 +18,7 @@ https://virajratnakar.github.io/translator/
 
 ⚡ Fast and simple (no backend required)
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5
 
@@ -26,10 +26,10 @@ CSS3
 
 JavaScript (Vanilla)
 
-# 📂 Project Structure
+## 📂 Project Structure
 project-folder/
 │── index.html   # Main application file
-# ▶️ How It Works
+## ▶️ How It Works
 
 Select a language from the dropdown menu
 
@@ -39,7 +39,7 @@ Click the Translate button
 
 A new tab opens with the translated result on Google Translate
 
-# 💡 Code Explanation
+## 💡 Code Explanation
 
 The main functionality is handled by this JavaScript function:
 
@@ -57,7 +57,7 @@ tl= → Target language (selected by user)
 
 text= → User input text
 
-# 🎨 UI Highlights
+## 🎨 UI Highlights
 
 Centered form layout
 
@@ -67,7 +67,7 @@ Responsive and clean design
 
 Hover effects on button
 
-# ⚠️ Limitations
+## ⚠️ Limitations
 
 Requires internet connection
 
@@ -75,7 +75,7 @@ Relies on Google Translate (no offline support)
 
 No API integration (just redirection)
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
 please contribute
 
@@ -89,10 +89,10 @@ Add dark mode 🌙
 
 Show translation inside the app instead of redirect
 
-# 📌 Usage
+## 📌 Usage
 
 Simply open the index.html file in your browser.
 
-# 📜 License
+## 📜 License
 
 MIT licence.
