@@ -2,6 +2,10 @@
 
 A lightweight web-based language translator that redirects user input to Google Translate with the selected target language.
 
+# Live link:
+
+
+
 # 🚀 Features
 
 🌍 Supports a wide range of languages
